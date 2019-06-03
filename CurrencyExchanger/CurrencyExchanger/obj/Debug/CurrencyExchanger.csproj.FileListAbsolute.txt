@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\bin\Debug\CurrencyExchanger.exe.config
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\CurrencyExchanger.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\MainWindow.baml
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\App.g.cs
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\CurrencyExchanger_MarkupCompile.cache
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\CurrencyExchanger.g.resources
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\CurrencyExchanger.Properties.Resources.resources
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\CurrencyExchanger.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\bin\Debug\CurrencyExchanger.exe
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\bin\Debug\CurrencyExchanger.pdb
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\CurrencyExchanger.exe
+C:\Users\Student\Documents\CurrencyExchanger\CurrencyExchanger\obj\Debug\CurrencyExchanger.pdb
